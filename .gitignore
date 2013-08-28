@@ -75,4 +75,4 @@ rebuild-launch.out
 coverage
 jacoco.exec
 workingsets.xml
-.hg/
+.hg*
