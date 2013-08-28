@@ -76,3 +76,5 @@ coverage
 jacoco.exec
 workingsets.xml
 .hg/
+.hgtags
+.hgignore
